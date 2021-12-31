@@ -1,6 +1,8 @@
 # Birthday Invite Card
 Created with HTML, CSS
 
+[Preview](https://breadomaticc.github.io/birthdayinvitecard/)
+
 ## How to use it?
 
 Just download/fork it
@@ -9,6 +11,6 @@ Just download/fork it
 
 Go to [Netlify](https://netlify.com) and follow [this instruction](https://www.youtube.com/watch?v=gaC-l9MAE9Q)
 
-Credit:
+##Credit
 
 w3schools, Google Image
