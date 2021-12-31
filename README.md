@@ -5,7 +5,7 @@ Created with HTML, CSS
 
 Just download/fork it
 
-### How to make the invite card link?
+## How to make the invite card link?
 
 Go to [Netlify](https://netlify.com) and follow [this instruction](https://www.youtube.com/watch?v=gaC-l9MAE9Q)
 
