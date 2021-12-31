@@ -1,2 +1,6 @@
-# birthdayinvitecard
-A free Birthday Party invitation card
+# Birthday Invite Card
+Created with HTML, CSS
+
+Credit:
+
+w3schools, Google Image
